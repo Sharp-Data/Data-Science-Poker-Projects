@@ -1,4 +1,4 @@
-# Project: Data-Science-Poker-Projects
+# Blog Posts: Data-Science-Poker-Projects
 
 
 ### Overview
